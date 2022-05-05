@@ -11,7 +11,7 @@ To rebuild:
 
 ```bash
 
-	git clone https://github.com/jfelten/openvpn-docker.git
+	git clone https://github.com/macomeau/openvpn-docker.git
 	cd openvpn-docker
 	docker build .
 	
