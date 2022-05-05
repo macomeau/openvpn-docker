@@ -1,8 +1,6 @@
 # Smallest base image
 FROM alpine:3.15
 
-MAINTAINER Marc Comeau <marc.comeau@gmail.com>
-
 ADD VERSION .
 
 # Install needed packages
