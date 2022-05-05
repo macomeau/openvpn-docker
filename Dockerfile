@@ -1,7 +1,7 @@
 # Smallest base image
 FROM alpine:3.15
 
-MAINTAINER John Felten<john.felten@gmail.com>
+MAINTAINER Marc Comeau <marc.comeau@gmail.com>
 
 ADD VERSION .
 
